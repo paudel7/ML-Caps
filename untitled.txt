@@ -1,0 +1,8 @@
+My first ML-capstone:@kiran
+STEPS:
+This is the sample video frames converted into box annotations
+Frame has cat and dog classes
+Manual annotation method is applied for box annotation
+csv is made cleaner with some manual formatting
+Annotations are then exported to csv
+The csv is then converted to xlsx clean format
