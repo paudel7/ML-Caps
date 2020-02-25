@@ -1,3 +1,4 @@
+PLEASE IGNORE UNTITLED CHECKPOINT FOLDER
 My first ML-capstone:@kiran
 STEPS:
 This is the sample video frames converted into box annotations
